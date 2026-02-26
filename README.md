@@ -35,6 +35,14 @@ To help you find the right tool for your needs, we've created a list of alternat
 | **[Vizard](https://vizard.ai/?via=sora)**    | - AI script-to-video generation<br>- Customizable video templates<br>- Real-time editing                          | Free/$16/$32        | A versatile choice for businesses creating professional training or promotional videos.               |  
 
 
+
+
+## 🛠️ Prompt Generation Tools
+
+| **Name** | **Key Features** | **Pricing** | **Why Choose It** |
+|-----------|-----------------|-------------|-------------------|
+| **[TubePrompter](https://tubeprompter.com)** | - Video to Sora prompt conversion<br>- Supports YouTube, TikTok, Instagram<br>- Multi-platform output (Sora, Midjourney, Veo) | **Free** | Extract structured prompts from any video URL for Sora and other AI generators |
+
 # Table of Content
 This repository is organized as follows:
 
